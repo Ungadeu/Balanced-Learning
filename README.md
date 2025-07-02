@@ -1,2 +1,2 @@
 # Balanced-Learning
-A website that mainly teaches elders on how to use any kind of technology used by the general public, computer, phone, smart appliance, and teaches internet safety for scammers and hackers.y
+A website that primarily teaches older adults how to use various technologies commonly used by the general public, including computers, phones, and smart appliances, while also educating them on internet safety to protect against scammers and hackers.
